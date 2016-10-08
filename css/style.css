@@ -1,0 +1,167 @@
+
+
+
+
+body {
+	background-color: grey
+	
+
+}
+
+h1 {
+	
+	margin-left: 20px;
+	margin-right: 20px;
+	
+	
+
+
+
+}
+
+#part1 {
+
+	background: #4aaaa5;		
+	color: white;
+	width: 20%;
+	float: left;
+	margin-left: 125px;
+
+	
+	
+	
+}
+
+#part2 {
+	background: white;
+	color: black;
+	width: 16%;
+	float: left;
+	padding-left: 0px;
+
+
+	
+}
+
+#part3 {
+	background: white;
+	color: black;
+	width: 16%;
+	float: left;
+	padding-left: 25px;
+	
+	
+}
+
+#part4 {
+	background: white;
+	color: black;
+	width: 16%;
+	float: left;
+	padding-left: 50px;
+	
+	
+}
+
+h2 {
+	background: white;
+	float: left;
+	width: 50%;
+	margin-left: 75px;
+	
+	
+
+	
+}
+
+#area1 {
+	
+	color: teal;
+	width: 20%;
+	margin-left: 75px;
+
+
+}
+
+
+
+
+#area2 {
+
+	width: 35%;
+	margin-left: 75px;
+	float: left;
+
+	
+
+}
+
+#area3 {
+	color: black;
+	width: 65%;
+	margin-left: 75px;
+
+
+	
+	
+	
+}
+
+
+h4 {
+	float: left;
+	width: 15%;
+	background: white;
+	height: 100px;
+	margin-left: 60px;
+	
+	
+
+}
+
+#quad1 {
+	color: teal;
+	width: 75%;
+	padding-left: 40px;
+	padding-bottom: 25px;
+
+
+}
+
+#quad2 {
+	color: black;
+	width: 21%;
+	float: left;
+	padding-left: 15px;
+}
+
+#quad3 {
+	color: black;
+	width: 21%;
+	float: left;
+	padding-left: 15px;
+}
+
+#quad4 {
+	color: black;
+	width: 21%;
+	float: left;
+	padding-left: 15px;
+
+}
+
+ footer {
+ 	background: black;
+	color: white;
+	width: 75%;
+	height: 50px;
+	float: left;
+	text-align: center;
+	margin-left: 75px;
+	padding-top: 5px;
+
+
+
+}
+
+
